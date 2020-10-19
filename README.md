@@ -1,1 +1,4 @@
 # naneun
+pear
+bear
+dear
