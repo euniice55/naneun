@@ -1,4 +1,3 @@
 # naneun
-pear
-bear
-dear
+participate in hacktoberfest
+learn opensource
